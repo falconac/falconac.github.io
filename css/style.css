@@ -29,8 +29,8 @@ div{ text-align:left;}
 .tb_border{border-bottom:1px solid #e3e3e3;border-left:1px solid #e3e3e3;border-right:1px solid #e3e3e3;}
 
 a.menu {font-family:"微软雅黑";font-size:13px; color:#666666; text-decoration:none; display:block; height:40px; line-height:40px; }
-a.menu:hover{font-size:13px; font-family:"微软雅黑";color:#fff; background:url("menu2.jpg")/*tpa=http://wzfavored.com/themes/simpleboot3/portal/static/images/menu2.jpg*/ ;}
-a.menuon {font-size:13px; color:#fff; font-family:"微软雅黑"; text-decoration:none; display:block; height:40px; line-height:40px; background:url("menu2.jpg")/*tpa=http://wzfavored.com/themes/simpleboot3/portal/static/images/menu2.jpg*/; }
+a.menu:hover{font-size:13px; font-family:"微软雅黑";color:#fff; background:url("menu2.jpg") ;}
+a.menuon {font-size:13px; color:#fff; font-family:"微软雅黑"; text-decoration:none; display:block; height:40px; line-height:40px; background:url("menu2.jpg"); }
 a.menuon:hover { text-decoration:none; font-family:"微软雅黑";}
 
 
@@ -41,8 +41,8 @@ a.left1 {font-size:12px; color:#fff; font-family:"微软雅黑"; display:block; 
 a. color:#FFF;left1:hover { text-decoration:none;}
 
 a.left4 {font-size:12px; color:#222; font-family:Arial,"微软雅黑"; text-decoration:none; padding-left:45px; line-height:29px;}
-a.left4:hover{color:#222; text-decoration:none; background:url("left3.jpg")/*tpa=http://wzfavored.com/themes/simpleboot3/portal/static/images/left3.jpg*/;line-height:29px;}
-a.left4 {font-size:12px; color:#222; font-family:Arial,"微软雅黑"; text-decoration:none; padding-left:45px; background:url("left3.jpg")/*tpa=http://wzfavored.com/themes/simpleboot3/portal/static/images/left3.jpg*/;line-height:29px;}
+a.left4:hover{color:#222; text-decoration:none; background:url("left3.jpg");line-height:29px;}
+a.left4 {font-size:12px; color:#222; font-family:Arial,"微软雅黑"; text-decoration:none; padding-left:45px; background:url("left3.jpg");line-height:29px;}
 
 a.new {font-size:12px; color:#fff; font-family:Arial,"微软雅黑"; text-decoration:none; padding-left:40px;}
 a.new:hover{color:#DD6903; text-decoration:none;}
@@ -78,7 +78,7 @@ a.cy:hover{font-size:12px; color:#000; text-decoration:underline;}
 
 #newslist { padding:0px 0 0; min-height:492px; height:auto !important; height:492px; overflow:visible;}
 #newslist ul {list-style:none}
-#newslist li { width:98%; height:35px; border-bottom:dashed 1px #ccc; line-height:30px; background:url("index_30.jpg")/*tpa=http://wzfavored.com/themes/simpleboot3/portal/static/images/index_30.jpg*/ no-repeat left center; overflow:hidden; font-size:0; margin-left:8px;}
+#newslist li { width:98%; height:35px; border-bottom:dashed 1px #ccc; line-height:30px; background:url("index_30.jpg") no-repeat left center; overflow:hidden; font-size:0; margin-left:8px;}
 #newslist li a { float:left; font-size:13px; margin-left:15px; margin-top:5px; color:#333;}
 #newslist li a:hover{color:red;}
 #newslist li span { float:right; font-size:12px; margin-right:14px;}
@@ -131,7 +131,7 @@ div#showArticle div.attr { height:28px; line-height:28px; text-align:center; bor
 #showProduct .closeWindow a {color:#fff;  background-color:#06adfb; width:100px; padding:2px; display:block; margin:0 auto; text-align:center; height:25px; line-height:25px;}
 #showProduct .closeWindow a:hover { text-decoration:none;}
 #showProduct .content {line-height:24px}
-#showProduct h2 {height:40px; line-height:40px; font-size:14px; margin-top:10px; background:url("icon1.jpg")/*tpa=http://wzfavored.com/themes/simpleboot3/portal/static/images/icon1.jpg*/ no-repeat left center; padding-left:30px;}
+#showProduct h2 {height:40px; line-height:40px; font-size:14px; margin-top:10px; background:url("icon1.jpg") no-repeat left center; padding-left:30px;}
 #showProduct #categorylist {overflow:hidden;width:726px; }
 #showProduct #categorylist ul { list-style:none; height:205px;}
 #showProduct #categorylist ul li { float:left;}
@@ -139,5 +139,5 @@ div#showArticle div.attr { height:28px; line-height:28px; text-align:center; bor
 #showProduct #categorylist ul li a p {}
 #showProduct #categorylist ul li a span {height:28px; line-height:28px; text-align:center; display:block; overflow:hidden;}
 #showProduct #categorylist ul li a:hover {border:solid 1px #08a9c4; background-color:#08a9c4; color:#fff}
-#showProduct #categorylist .hScrollPane_dragbar {height:13px; background:url("category_bg1.jpg")/*tpa=http://wzfavored.com/themes/simpleboot3/portal/static/images/category_bg1.jpg*/ no-repeat left top; padding-top:2px;}
-#showProduct #categorylist .hScrollPane_draghandle {height:11px; width:43px; cursor:pointer; background:url("pressbar.png")/*tpa=http://wzfavored.com/themes/simpleboot3/portal/static/images/pressbar.png*/ no-repeat left top;}
+#showProduct #categorylist .hScrollPane_dragbar {height:13px; background:url("category_bg1.jpg") no-repeat left top; padding-top:2px;}
+#showProduct #categorylist .hScrollPane_draghandle {height:11px; width:43px; cursor:pointer; background:url("pressbar.png") no-repeat left top;}
