@@ -76,7 +76,7 @@ a.cy:link{font-size:12px;  color:#DF0202; text-decoration:none;}
 a.cy:visited{font-size:12px; color:#DF0202; text-decoration:none;}
 a.cy:hover{font-size:12px; color:#000; text-decoration:underline;}
 
-#newslist { padding:0px 0 0; min-height:492px; height:auto !important; height:492px; overflow:visible;}
+#newslist { padding:0px 0 0; /*min-height:492px;*/ height:auto !important; height:492px; overflow:visible;}
 #newslist ul {list-style:none}
 #newslist li { width:98%; height:35px; border-bottom:dashed 1px #ccc; line-height:30px; background:url("index_30.jpg") no-repeat left center; overflow:hidden; font-size:0; margin-left:8px;}
 #newslist li a { float:left; font-size:13px; margin-left:15px; margin-top:5px; color:#333;}
