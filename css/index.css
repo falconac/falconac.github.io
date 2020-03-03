@@ -19,6 +19,7 @@
 .focus_l:hover b,.focus_r:hover b{opacity:0.5;filter:alpha(opacity=50);}
 
 
+
 /*-------------------- a102076392  begin  ---------------------*/
 .form_ul{width:100%; height:38px;}
 .form_ul li{ padding:0px auto; float:left; }
@@ -55,7 +56,7 @@
 	.hs-topsc ul li a{ color:#333; font-size:10px;line-height:31px;}
 	.hs-topsc ul li a:hover{ color:red; font-size:10px;line-height:31px;}
 
-.topmeau{ width:100%; height:35px; overflow:hidden; background-color:#d40e43; }
+.topmeau{ width:100%; height:35px; overflow:hidden; background-color:#005bac /*#d40e43*/; }
 .homescls{ background-image:url("homecls.png"); background-repeat:no-repeat;  background-position:20px -2px;}
 
 
@@ -206,7 +207,7 @@
 .cont div{ text-align:left;}
 
 
-.contLeft{ width:220px; min-height:635px; float:left; margin:0px auto; padding:0px auto; float:left;margin-left:0px;}
+.contLeft{ width:220px; /*min-height:635px;*/ float:left; margin:0px auto; padding:0px auto; float:left;margin-left:0px;}
 
 .contLeftProds{ width:99%; min-height:200px;  margin-left:1px; text-align:left; }
 	.contLeftProds ul{ width:99%; margin:0px auto; padding:0px auto; margin-left:3px;}
@@ -278,7 +279,7 @@
 #ordertab input{ color:#fff;}
 
 
-.conNeiRong{ min-height:550px; margin:0px auto; padding-left:10px; margin-left:0px;}
+.conNeiRong{/* min-height:550px;*/ margin:0px auto; padding-left:10px; margin-left:0px;}
 .conNeiTitle{ width:100%; height:40px; color:#666; font-size:14px;  line-height:40px;  margin-bottom:10px; text-align:left;  padding-top:10px;  background-repeat:repeat-x}
 .conNeiText div,.conNeiText p,.conNeiText span{ text-align:left;font-family:'微软雅黑','幼圆'!important;}
 
