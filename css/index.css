@@ -35,7 +35,7 @@
 .bkuang{ border:solid 1px #dcdcdc; background-color:#ffffff;}
 
 .topred{ width:100%;height:5px; background-color:#b4251d;margin:0px auto; padding:0px auto;}
-.toplog_div{overflow:hidden; background-image:url("topbk.jpg");}
+.toplog_div{overflow:hidden; }
 .tophead{height:132px; background-image:url("xmz-topbk.jpg"); background-repeat:repeat-x; z-index:100000; overflow:hidden;}
 
 .shoucang-cls{ float:left; width:50px;}
