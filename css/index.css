@@ -44,7 +44,7 @@
 .shoucang-cls2{  margin-left:30px;}
 .shoucang-cls a{ color:#666; line-height:30px;}
 
-#cover{ border-bottom:solid 1px #ddd; margin-top: 120px;}
+#cover{ width:1060px;border-bottom:solid 1px #ddd; margin-top: 120px;}
 #toplog{/*width:565px;*/ height:100%; float:left; margin:0px auto; }
 
 #toplang{width:370px; height:100%; float:right; margin-right:0px; margin-top:0px; text-align:right; padding-top:10px;}
